@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iMarket/signUpThreeViewController.swift"
+            timestampString = "507999646.677358"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "signUpThreeViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iMarket.signUpThreeViewController.labelTextTwo.getter : Swift.String"
+                  moduleName = "iMarket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pratyushpratik/Downloads/iMarket/iMarket/signUpThreeViewController.swift"
+                  timestampString = "507999647.708349"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iMarket.signUpThreeViewController.labelTextTwo.setter : Swift.String"
+                  moduleName = "iMarket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pratyushpratik/Downloads/iMarket/iMarket/signUpThreeViewController.swift"
+                  timestampString = "507999647.715758"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iMarket.signUpThreeViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; iMarket.signUpThreeViewController"
+                  moduleName = "iMarket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pratyushpratik/Downloads/iMarket/iMarket/signUpThreeViewController.swift"
+                  timestampString = "507999647.71786"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "359">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iMarket.signUpThreeViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;iMarket.signUpThreeViewController&gt;"
+                  moduleName = "iMarket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pratyushpratik/Downloads/iMarket/iMarket/signUpThreeViewController.swift"
+                  timestampString = "507999647.719608"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "261">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
